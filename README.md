@@ -10,8 +10,8 @@ neural network architecture and be optimized using early stopping to avoid overf
 
 ## Neural Network Model
 
+![365901557-34a0ff25-ab1b-434b-8f9f-ca7e3a791ba4](https://github.com/user-attachments/assets/168a95ee-69ab-456d-b839-82c7149b5211)
 
-Include the neural network model diagram.(http://alexlenail.me/NN-SVG/index.html)
 
 ## DESIGN STEPS
 
